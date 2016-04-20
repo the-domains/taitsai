@@ -1,0 +1,28 @@
+name: taitsai
+favicon: null
+layout_spectrum: 0.40891839610412717
+typography_spectrum: 0.7872668693307787
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4456912116147578
+  lightness: 0.8037540747318417
+  saturation: 0.5810449828859419
+  rhythmicContrast: 0.3620166606269777
+purpose: []
